@@ -1,0 +1,19 @@
+<package>
+  <description brief="ces">
+
+     ces
+
+  </description>
+  <author>Ze'ev Klapow</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ces</url>
+
+  <depend package="rospy" />
+  <depend package="turtlebot_bringup" />
+  <depend package="kobuki_msgs" />
+  <depend package="geometry_msgs" />
+
+</package>
+
+
